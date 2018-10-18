@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=thermal
+name=Thermal Engine For redmi 3
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Andry Setyoso
+description=Change your stock thermal for battery life and Fastcharge 
 minMagisk=17000
