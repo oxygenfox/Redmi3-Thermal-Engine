@@ -1,7 +1,32 @@
-# Magisk Module Template
+# Redmi 3 pro Thermal Engine
+This module allows faster battery charging than the standard.
+   
+## Requirements
+- Redmi 3 Pro.
+- Rooted with Magisk and Magisk Manager indeed installed.
 
-**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
+*__Note:__ Tested on the Xiaomi Redmi 3 pro Lineage OS 14.1 && Lineage OS 15.1*
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+## Instructions
+__It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 
-For more information about modules and repos, please check the [official documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/README.MD)
+#### Option 1 - Manually
+1. Go to Magisk Manager **_Modules_** section.
+2. Click on **_+_** yellow button and search/find for this **_"redmi3_thermal_engine.zip"_** file and long press on it.
+3. Select open and after installed then reboot your device.
+
+#### Option 2 - Download
+1. Go to Magisk Manager **_Downloads_** section.
+2. Search/Find **_"Redmi3 Thermal Engine"_**.
+3. Tap on the download button and then on **_INSTALL_**.
+4. Wait a moment to finish downloading and installing.
+5. When finished tap on **_REBOOT_**.
+
+   *__Note 1:__ Warning! Dont use this while gaming*  
+   
+## Changelog
+#### Version 1.0
+- Initial release
+
+## Links
+- [GitHub Module Page](https://github.com/oxygenfox/Redmi3-Thermal-Engine)
