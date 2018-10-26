@@ -15,7 +15,7 @@ __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 2. Click on **_+_** yellow button and search/find for this **_"redmi3_thermal_engine.zip"_** file and long press on it.
 3. Select open and after installed then reboot your device.
 
-#### Option 2 - Download From Magisk [Not Approve]
+#### Option 2 - Download From Magisk #Not Approve#
 
 
    *__Note 1: Dont user charger with gaming for longtime 
